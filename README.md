@@ -45,6 +45,9 @@ QUANTUM HackMx: I included the presentation of my first Hackathon in a different
 ## 6th Semester
 Javascript / Typescript / Python: Web page for the sale of new and used cars from agencies, where many functionalities are offered for various roles such as super administrator, automotive group administrator, manager, seller and buyer. It was a group project of 25 people, so we not only put into practice technical skills, but we also learned a lot about project management and value contribution. |Training Partner: NDS Cognitive Labs|
 
+## 7th Semester
+Javascript / Python: This is my favorite project in my exchange semester in Hochschule Karslruhe, it was developed in the Customer Collaboration Project course where we made a modern, maintainable and secure application for the stakeholders, having three main work packages that are implementation of Security Concept, DevOps Pipeline and Features. This was an international project, where I was in a team with german colleagues and we used agile methodology SCRUM as our working approach (sprints of 2 weeks of duration), having as an addition Jira to organize our stories/tasks and Confluence to provide good documentation. In general terms, we improved the software quality of a web application that Hochschule uses as a collaborative plattform to enable supervisors and project teams to efficiently manage their work.
+
 ## Acknowledgments
 
 Thanks to these colleagues for supporting me in certain topics.
@@ -52,3 +55,4 @@ Thanks to these colleagues for supporting me in certain topics.
 2. Cesar Emiliano Palome Luna.
 3. Eduardo Joel Cortez Valente.
 4. Pablo Gonzalez de la Parra.
+5. My german friends that taught me a lot and were nice to me (Alexander Seitz, Eric Weres, Erik Dwornik, Ioannis Theodosiadis, Jan Riesterer).
