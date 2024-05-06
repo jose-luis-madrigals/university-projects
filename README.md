@@ -48,6 +48,9 @@ Javascript / Typescript / Python: Web page for the sale of new and used cars fro
 ## 7th Semester
 Javascript / Python: This was my favorite project in my exchange semester in Hochschule Karslruhe, it was developed in the Customer Collaboration Project course where we made a modern, maintainable and secure application for the stakeholders, having three main work packages that are implementation of Security Concept, DevOps Pipeline and Features. This was an international project, where I was in a team with german colleagues and we used agile methodology SCRUM as our working approach (sprints of 2 weeks of duration), having as an addition Jira to organize our stories/tasks and Confluence to provide good documentation. In general terms, we improved the software quality of a web application (Django for backend/Vue.js for frontend) that Hochschule uses as a collaborative plattform to enable supervisors and project teams to efficiently manage their work.
 
+## 8th Semester
+1. Packet Tracer: performance improvement of a network of the University Museum of Contemporary Art (MUAC), which includes greater redudence, speed and security. |Training Partner: Cisco|
+
 ## Acknowledgments
 
 Thanks to these colleagues for supporting me in certain topics.
