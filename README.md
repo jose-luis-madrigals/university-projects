@@ -50,6 +50,7 @@ Javascript / Python: This was my favorite project in my exchange semester in Hoc
 
 ## 8th Semester
 1. Packet Tracer: consultancy project for performance improvement of a network of the University Museum of Contemporary Art (MUAC), which includes greater redudence, speed and security. |Training Partner: Cisco|
+2. Python: plagiarism detector based on NLP techniques that is improved with AI using supervised learning.
 
 ## Acknowledgments
 
